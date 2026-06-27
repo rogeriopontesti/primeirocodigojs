@@ -1,75 +1,80 @@
-# O Que Você Precisa Saber Para Começar com JavaScript
+# JavaScript para Iniciantes — Primeiro Código em JavaScript
 
-Aprender JavaScript não precisa ser complicado.
+Este repositório acompanha a primeira aula da série **O que você precisa saber para começar com JavaScript**.
 
-Muita gente acredita que para começar a programar é necessário aprender frameworks, bibliotecas, React, Node.js e diversas outras tecnologias ao mesmo tempo.
+Se você está aprendendo programação e procura um curso de JavaScript para iniciantes, aqui encontrará os primeiros conceitos da linguagem utilizando apenas HTML e JavaScript puro (Vanilla JavaScript).
 
-A verdade é que você não precisa de nada disso para escrever o seu primeiro código.
+Durante esta aula você aprenderá como criar seu primeiro código JavaScript, utilizar `alert()`, `console.log()`, abrir o Console do navegador, interpretar mensagens de erro e entender como funciona a lógica básica presente em praticamente qualquer aplicação.
 
-Neste vídeo você vai aprender os conceitos fundamentais da linguagem JavaScript de forma simples e prática, utilizando apenas um editor de texto e o navegador.
+---
 
-## 🎥 Vídeo Completo
+# 🎥 Vídeo Completo
 
 https://youtu.be/_IRvCQbdGak
 
 ---
 
-## 📚 O que você vai aprender
+# 🚀 O que você vai aprender
 
-✅ O que é JavaScript
+Nesta primeira aula da série serão apresentados os fundamentos necessários para iniciar seus estudos em JavaScript.
 
-✅ Onde o JavaScript roda atualmente
+Você aprenderá:
 
-✅ Como pensa um programador
-
-✅ O conceito de Entrada, Processamento e Saída
-
-✅ Como criar seu primeiro arquivo HTML
-
-✅ Como utilizar a tag `<script>`
-
-✅ Como exibir mensagens com `alert()`
-
-✅ Como utilizar o `console.log()`
-
-✅ Como abrir o console do navegador com F12
-
-✅ Como executar operações matemáticas
-
-✅ Como funciona a concatenação de valores
-
-✅ Como corrigir erros básicos de sintaxe
+* O que é JavaScript
+* Por que JavaScript é uma das linguagens mais utilizadas do mundo
+* Onde o JavaScript é executado
+* JavaScript no navegador
+* Introdução ao Node.js
+* Como pensa um programa
+* Entrada, Processamento e Saída
+* Como criar um arquivo HTML
+* Como utilizar a tag `<script>`
+* Como escrever seu primeiro código JavaScript
+* Como utilizar `alert()`
+* Como utilizar `console.log()`
+* Como abrir o Console do navegador (F12)
+* Como realizar operações matemáticas
+* Como funciona a concatenação de valores
+* Como identificar e interpretar erros
 
 ---
 
-## 💻 Código Utilizado
+# 💻 Exemplos utilizados
 
-### Exibindo uma mensagem com Alert
+## Primeiro programa
 
 ```javascript
 alert("Olá JavaScript");
 ```
 
-### Utilizando o Console
+---
+
+## Exibindo mensagens
 
 ```javascript
 console.log("Olá JavaScript");
 ```
 
-### Operações Matemáticas
+---
+
+## Operações matemáticas
 
 ```javascript
 console.log(2 * 2);
 console.log(10 + 10);
 ```
 
-### Concatenação de Valores
+---
+
+## Concatenação
 
 ```javascript
 console.log("O resultado é " + (10 + 10));
 ```
 
-### Exemplo de Erro de Sintaxe
+---
+
+## Exemplo de erro
 
 ```javascript
 console.log("O resultado é " + (10 - ));
@@ -77,13 +82,47 @@ console.log("O resultado é " + (10 - ));
 
 ---
 
-## 🚀 Próximos Assuntos
+# 📚 Tecnologias utilizadas
+
+* HTML5
+* JavaScript
+* Vanilla JavaScript
+* Console do Navegador
+* Node.js (introdução)
+* Visual Studio Code
+
+---
+
+# 🎯 Este projeto é indicado para
+
+* Quem nunca programou
+* Quem deseja aprender JavaScript do zero
+* Estudantes de ADS
+* Estudantes de Ciência da Computação
+* Estudantes de Engenharia de Software
+* Desenvolvedores iniciantes
+* Quem procura um curso de JavaScript para iniciantes
+
+---
+
+# 📂 Estrutura do projeto
+
+```
+primeiroCodigoJS/
+
+├── index.html
+└── script.js
+```
+
+---
+
+# 🚀 Próximas aulas da série
 
 Esta aula faz parte da série:
 
-### O Que Você Precisa Saber
+## O que você precisa saber para começar com JavaScript
 
-Próximos vídeos:
+Próximos conteúdos:
 
 * Variáveis
 * Tipos de Dados
@@ -98,26 +137,21 @@ Próximos vídeos:
 * Fetch API
 * JavaScript Moderno
 
+Cada aula foi planejada para construir uma base sólida antes de avançar para bibliotecas e frameworks como React ou Node.js.
+
 ---
 
-## 🔗 Redes e Conteúdo
+# 🔗 Canal
 
-Se este conteúdo te ajudou, inscreva-se no canal para acompanhar novos vídeos sobre:
-
-* JavaScript
-* PHP
-* Laravel
-* Linux
-* Apache
-* Nginx
-* Git e GitHub
-* Desenvolvimento Web
-
-Canal YouTube:
+YouTube
 
 https://www.youtube.com/@rogeriopontesti
 
 ---
 
-Desenvolvido por Rogerio Pontes 🚀
+# 📜 Licença
+
+Projeto desenvolvido exclusivamente para fins educacionais.
+
+Se este projeto foi útil para você, deixe uma ⭐ no repositório e acompanhe os próximos vídeos da série.
 
